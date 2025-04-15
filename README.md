@@ -17,6 +17,7 @@ Yuguo Yin<sup>1</sup>&nbsp;
  
 [![ArXiv](https://img.shields.io/badge/ArXiv-2504.02949(VARGPTv1.1)-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2504.02949) 
 [![ArXiv](https://img.shields.io/badge/ArXiv-2501.12327(VARGPT)-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2501.12327) [![Webpage](https://img.shields.io/badge/Webpage-VARGPTv1.1-<COLOR>.svg)](https://vargpt1-1.github.io/) [![Model](https://img.shields.io/badge/Model-HuggingFace(VARGPTv1.1)-blue.svg)](https://huggingface.co/VARGPT-family/VARGPT-v1.1) [![Model](https://img.shields.io/badge/Model-HuggingFace(VARGPTv1.1_edit)-blue.svg)](https://huggingface.co/VARGPT-family/VARGPT-v1.1-edit) [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-red.svg)](https://huggingface.co/datasets/VARGPT-family/VARGPT_datasets) [![License](https://img.shields.io/badge/License-Apache-yellow)](https://github.com/VARGPT-family/VARGPT/blob/main/LICENSE)
+[![WeChat badge](https://img.shields.io/badge/-WeChat@量子位-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/96yyriyCmwnrGk4_M9_ZUg)
 </div>
 
 
