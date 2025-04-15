@@ -90,11 +90,7 @@ import sys
 _CONFIG_FOR_DOC = "VARGPTQwen2VLConfig"
 try:
     _OUTPUT_IMAGE_PATH = os.environ["_OUTPUT_IMAGE_PATH"]
-    # _OUTPUT_IMAGE_PATH = "outputs_imges/44000_256_RL_dpo_instruct_gen_Flux_10k"
-    print(f"获取到环境变量: {_OUTPUT_IMAGE_PATH}")
 except KeyError:
-    print("错误：找不到必需的环境变量 MY_VARIABLE")
-    # sys.exit(1)  # 异常退出
     _OUTPUT_IMAGE_PATH = "./"
 
 
